@@ -69,7 +69,7 @@
 
   <PawnKindDef ParentName="BaseMechanoidKind">
     <defName>CVN_MantisA</defName>
-    <label>MantisA</label>
+    <label>Flying Mantis</label>
     <labelPlural>Flying Mantis</labelPlural>
     <race>CVN_MantisA</race>
     <combatPower>110</combatPower>
